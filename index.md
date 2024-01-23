@@ -16,7 +16,15 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 ---
 #### [Dashalytics](https://www.linkedin.com/pulse/dashalytics-vincen-dailey-urcjc/)
 [<img src="images/Dashalytics.Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+<br><br>
+This case study provided by Data Career Jumpstart challenged me with finding key insights from a data set derived from a delivery service named iFood.
+<br><br>
+Below are the questions that I was looking to answer:
+<br><br>
+-What age group uses the delivery services the most?
+-What month does this delivery service receive their most new members?
+-How does the customer's income affect the total amount they typically spend on food?
+-How did Campaign 6 perform?
 
 
 ---
