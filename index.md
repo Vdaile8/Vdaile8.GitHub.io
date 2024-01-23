@@ -36,7 +36,9 @@ Below are the questions that I was looking to answer:
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. In the scenario I was tasked with answering the following questions:
 <br><br>
 -What schools are struggling the most?
+<br><br>
 -How does class size affect college admission?
+<br><br>
 -What are the top math schools in the state? 
 
 ---
