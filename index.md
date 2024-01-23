@@ -22,8 +22,11 @@ This case study provided by Data Career Jumpstart challenged me with finding key
 Below are the questions that I was looking to answer:
 <br><br>
 -What age group uses the delivery services the most?
+<br><br>
 -What month does this delivery service receive their most new members?
+<br><br>
 -How does the customer's income affect the total amount they typically spend on food?
+<br><br>
 -How did Campaign 6 perform?
 
 
