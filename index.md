@@ -32,8 +32,8 @@ In this case study from Data Analytics Accelerator, I was prompted to analyze th
 
 ### Project Navigation
 
-- [Dashalytics](http://example.com/)
-- [Massachussetts Public School Analysis](http://example.com/)
+- [Dashalytics](https://www.linkedin.com/pulse/dashalytics-vincen-dailey-urcjc/)
+- [Massachussetts Public School Analysis](https://www.linkedin.com/feed/update/urn:li:activity:7128767505778556928/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
