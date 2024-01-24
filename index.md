@@ -23,7 +23,9 @@ In this case study from Data Analytics Accelerator, I was prompted to analyze th
 -How does class size affect college admission?
 <br><br>
 -What are the top math schools in the state? 
+
 ---
+
 #### [Dashalytics](https://www.linkedin.com/pulse/dashalytics-vincen-dailey-urcjc/)
 [<img src="images/Dashalytics.Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 <br><br>
