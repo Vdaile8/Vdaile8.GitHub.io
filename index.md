@@ -45,11 +45,11 @@ Below are the questions that I was looking to answer:
 
 ### Project Navigation
 
-- [Dashalytics](https://www.linkedin.com/pulse/dashalytics-vincen-dailey-urcjc/)
-- [Massachussetts Public School Analysis](https://www.linkedin.com/feed/update/urn:li:activity:7128767505778556928/)
+- [Project 1 Title](http://example.com/)
+- [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Massachussetts Public School Analysis](https://www.linkedin.com/feed/update/urn:li:activity:7128767505778556928/)
+- [Dashalytics](https://www.linkedin.com/pulse/dashalytics-vincen-dailey-urcjc/)
 
 ---
 
