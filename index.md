@@ -9,8 +9,7 @@
 Tolulope is the best
 
 ---
-#### [World Bank Analysis] 
-[(/files/ World Bank Analysis.pdf)]
+#### [World Bank Analysis](/files/World_Bank_Analysis.pdf)
 <img src="images/World_Bank_Analysis.logo.jpg"/>
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
