@@ -6,7 +6,7 @@
 
 #### [Internal Blog Post Project](/bank)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+
 
 ---
 #### [World Bank Analysis](/files/World_Bank_Analysis.pdf)
