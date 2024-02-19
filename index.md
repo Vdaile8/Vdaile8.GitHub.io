@@ -2,11 +2,7 @@
 
 ---
 
-### Learn About My Projects
-
-#### [Internal Blog Post Project](/bank)
-<img src="images/Family.jpg?raw=true"/>
-
+### Check Out My Projects!
 
 ---
 #### [World Bank Analysis](/files/World_Bank_Analysis.pdf)
