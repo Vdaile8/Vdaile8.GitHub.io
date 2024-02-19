@@ -11,7 +11,12 @@ Tolulope is the best
 ---
 #### [World Bank Analysis](/files/World_Bank_Analysis.pdf)
 <img src="images/World_Bank_Analysis.logo.jpg"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+This project allowed me to explore data from the World Bank. I worked with CSVFiddle to run some SQL queries
+and utilize the following functions:
+<br><br>
+AS Function • GROUP BY Function • MIN and MAX Function • ORDER BY Function • LIMIT Function • AVG Function
+<br><br>
+The insights pulled from this project were very interesting and sparked my interest in the World Bank.
 
 ---
 #### [Massachussetts Public School Analysis](https://www.linkedin.com/feed/update/urn:li:activity:7128767505778556928/)
