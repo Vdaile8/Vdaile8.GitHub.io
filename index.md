@@ -5,26 +5,26 @@
 ### Check Out My Projects!
 
 ---
-#### [Diabetes Decoded: Gathering Insights & Saving Lives](/files/X.pdf)
-<img src="images/X"/>
-This project allowed me to explore data from the World Bank. I worked with CSVFiddle to run some SQL queries
-and utilize the following functions:
+#### [Diabetes Decoded: Gathering Insights & Saving Lives](/files/Diabetes Decoded Gathering Insights & Saving Lives.pdf)
+<img src="images/Blue Orange Creative DiabetesPresentation.jpg"/>
+I gathered insights that helped address the challenges confronting the hospital and improve the patient experience.
 <br><br>
-AS Function • GROUP BY Function • MIN and MAX Function • ORDER BY Function • LIMIT Function • AVG Function
+Tasks Accomplished:
 <br><br>
-Below are the questions that I was tasked with answering:
+⚕️Determined best course of action to combat overcrowding in the hospital.
 <br><br>
-💡Which countries have the highest amount to repay?
+⚕️Created a list of medical specialties within the hospital and their average count of total procedures completed.
 <br><br>
-💡How many IDA loans are there currently?
+⚕️Analyzed the possibility of racial discrimination and unfair treatment in the hospital.
 <br><br>
-💡How many IDA loans are there per country?
+⚕️Examined the correlation between patient stay duration and the number of lab procedures performed.
 <br><br>
-💡What is the maximum amount owed to the IDA?
+⚕️Highlighted major successes within the hospital.
+
 ---
 #### [World Bank Analysis](/files/World_Bank_Analysis.pdf)
 <img src="images/World_Bank_Analysis.logo.jpg"/>
-This project allowed me to explore data from the World Bank. I worked with CSVFiddle to run some SQL queries
+This project allowed me to explore data from the World Bank. I worked with CSVFiddle to run SQL queries
 and utilize the following functions:
 <br><br>
 AS Function • GROUP BY Function • MIN and MAX Function • ORDER BY Function • LIMIT Function • AVG Function
