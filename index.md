@@ -6,7 +6,7 @@
 
 ---
 #### [Diabetes Decoded: Gathering Insights & Saving Lives](/files/Diabetes Decoded Gathering Insights & Saving Lives.pdf)
-<img src="images/Blue Orange Creative DiabetesPresentation.jpg"/>
+<img src="images/Blue Orange Creative Diabetes Presentation.jpg"/>
 I gathered insights that helped address the challenges confronting the hospital and improve the patient experience.
 <br><br>
 Tasks Accomplished:
